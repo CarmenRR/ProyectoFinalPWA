@@ -1,0 +1,43 @@
+//General
+html, body{
+    margin: 0;
+
+}
+body{
+    font-family: 'Signika', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #369E75;
+    font-size: 2rem;
+}
+
+a:hover{
+   color:#014731;
+    
+}
+
+/* Tema del color */
+.Verde-1 { color: #EDFFD3; }
+.Verde-2{ color: #AFDE9E; }
+.Verde-3 { color: #369E75; }
+.Verde-4{ color: #017D56; }
+.Verde-5{ color: #014731; }
+
+
+//Letras 
+
+.font-300{
+    font-weight: 300;
+}
+
+.font-500{
+    font-weight: 500;
+}
+
+.font-700{
+    font-weight: 700;
+}
+
+
